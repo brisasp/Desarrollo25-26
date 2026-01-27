@@ -1,0 +1,10 @@
+F:\Desarrollo de interfaces\Tems13\ConexionBD\ConexionBD\bin\Debug\ConexionBD.exe.config
+F:\Desarrollo de interfaces\Tems13\ConexionBD\ConexionBD\bin\Debug\ConexionBD.exe
+F:\Desarrollo de interfaces\Tems13\ConexionBD\ConexionBD\bin\Debug\ConexionBD.pdb
+F:\Desarrollo de interfaces\Tems13\ConexionBD\ConexionBD\obj\Debug\ConexionBD.csproj.AssemblyReference.cache
+F:\Desarrollo de interfaces\Tems13\ConexionBD\ConexionBD\obj\Debug\ConexionBD.Form1.resources
+F:\Desarrollo de interfaces\Tems13\ConexionBD\ConexionBD\obj\Debug\ConexionBD.Properties.Resources.resources
+F:\Desarrollo de interfaces\Tems13\ConexionBD\ConexionBD\obj\Debug\ConexionBD.csproj.GenerateResource.cache
+F:\Desarrollo de interfaces\Tems13\ConexionBD\ConexionBD\obj\Debug\ConexionBD.csproj.CoreCompileInputs.cache
+F:\Desarrollo de interfaces\Tems13\ConexionBD\ConexionBD\obj\Debug\ConexionBD.exe
+F:\Desarrollo de interfaces\Tems13\ConexionBD\ConexionBD\obj\Debug\ConexionBD.pdb

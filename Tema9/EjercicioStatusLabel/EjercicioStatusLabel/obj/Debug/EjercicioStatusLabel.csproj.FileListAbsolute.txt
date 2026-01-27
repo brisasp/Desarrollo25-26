@@ -1,0 +1,10 @@
+F:\Desarrollo de interfaces\Tema9\EjercicioStatusLabel\EjercicioStatusLabel\bin\Debug\EjercicioStatusLabel.exe.config
+F:\Desarrollo de interfaces\Tema9\EjercicioStatusLabel\EjercicioStatusLabel\bin\Debug\EjercicioStatusLabel.exe
+F:\Desarrollo de interfaces\Tema9\EjercicioStatusLabel\EjercicioStatusLabel\bin\Debug\EjercicioStatusLabel.pdb
+F:\Desarrollo de interfaces\Tema9\EjercicioStatusLabel\EjercicioStatusLabel\obj\Debug\EjercicioStatusLabel.csproj.AssemblyReference.cache
+F:\Desarrollo de interfaces\Tema9\EjercicioStatusLabel\EjercicioStatusLabel\obj\Debug\EjercicioStatusLabel.Form1.resources
+F:\Desarrollo de interfaces\Tema9\EjercicioStatusLabel\EjercicioStatusLabel\obj\Debug\EjercicioStatusLabel.Properties.Resources.resources
+F:\Desarrollo de interfaces\Tema9\EjercicioStatusLabel\EjercicioStatusLabel\obj\Debug\EjercicioStatusLabel.csproj.GenerateResource.cache
+F:\Desarrollo de interfaces\Tema9\EjercicioStatusLabel\EjercicioStatusLabel\obj\Debug\EjercicioStatusLabel.csproj.CoreCompileInputs.cache
+F:\Desarrollo de interfaces\Tema9\EjercicioStatusLabel\EjercicioStatusLabel\obj\Debug\EjercicioStatusLabel.exe
+F:\Desarrollo de interfaces\Tema9\EjercicioStatusLabel\EjercicioStatusLabel\obj\Debug\EjercicioStatusLabel.pdb

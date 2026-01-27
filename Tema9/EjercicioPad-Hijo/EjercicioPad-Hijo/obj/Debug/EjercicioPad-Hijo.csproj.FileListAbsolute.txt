@@ -1,0 +1,12 @@
+F:\Desarrollo de interfaces\Tema9\EjercicioPad-Hijo\EjercicioPad-Hijo\bin\Debug\EjercicioPad-Hijo.exe.config
+F:\Desarrollo de interfaces\Tema9\EjercicioPad-Hijo\EjercicioPad-Hijo\bin\Debug\EjercicioPad-Hijo.exe
+F:\Desarrollo de interfaces\Tema9\EjercicioPad-Hijo\EjercicioPad-Hijo\bin\Debug\EjercicioPad-Hijo.pdb
+F:\Desarrollo de interfaces\Tema9\EjercicioPad-Hijo\EjercicioPad-Hijo\obj\Debug\EjercicioPad-Hijo.csproj.AssemblyReference.cache
+F:\Desarrollo de interfaces\Tema9\EjercicioPad-Hijo\EjercicioPad-Hijo\obj\Debug\EjercicioPad_Hijo.Form1.resources
+F:\Desarrollo de interfaces\Tema9\EjercicioPad-Hijo\EjercicioPad-Hijo\obj\Debug\EjercicioPad_Hijo.Properties.Resources.resources
+F:\Desarrollo de interfaces\Tema9\EjercicioPad-Hijo\EjercicioPad-Hijo\obj\Debug\EjercicioPad-Hijo.csproj.GenerateResource.cache
+F:\Desarrollo de interfaces\Tema9\EjercicioPad-Hijo\EjercicioPad-Hijo\obj\Debug\EjercicioPad-Hijo.csproj.CoreCompileInputs.cache
+F:\Desarrollo de interfaces\Tema9\EjercicioPad-Hijo\EjercicioPad-Hijo\obj\Debug\EjercicioPad-Hijo.exe
+F:\Desarrollo de interfaces\Tema9\EjercicioPad-Hijo\EjercicioPad-Hijo\obj\Debug\EjercicioPad-Hijo.pdb
+F:\Desarrollo de interfaces\Tema9\EjercicioPad-Hijo\EjercicioPad-Hijo\obj\Debug\EjercicioPad-Hijo.exe.config
+F:\Desarrollo de interfaces\Tema9\EjercicioPad-Hijo\EjercicioPad-Hijo\obj\Debug\EjercicioPad_Hijo.Hijo.resources

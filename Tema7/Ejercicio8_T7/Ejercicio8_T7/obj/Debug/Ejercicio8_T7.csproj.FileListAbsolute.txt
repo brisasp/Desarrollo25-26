@@ -1,0 +1,8 @@
+F:\Desarrollo de interfaces\Tema7\Ejercicio8_T7\Ejercicio8_T7\bin\Debug\Ejercicio8_T7.exe.config
+F:\Desarrollo de interfaces\Tema7\Ejercicio8_T7\Ejercicio8_T7\bin\Debug\Ejercicio8_T7.exe
+F:\Desarrollo de interfaces\Tema7\Ejercicio8_T7\Ejercicio8_T7\bin\Debug\Ejercicio8_T7.pdb
+F:\Desarrollo de interfaces\Tema7\Ejercicio8_T7\Ejercicio8_T7\obj\Debug\Ejercicio8_T7.csproj.AssemblyReference.cache
+F:\Desarrollo de interfaces\Tema7\Ejercicio8_T7\Ejercicio8_T7\obj\Debug\Ejercicio8_T7.csproj.CoreCompileInputs.cache
+F:\Desarrollo de interfaces\Tema7\Ejercicio8_T7\Ejercicio8_T7\obj\Debug\Ejercicio8_T7.exe
+F:\Desarrollo de interfaces\Tema7\Ejercicio8_T7\Ejercicio8_T7\obj\Debug\Ejercicio8_T7.pdb
+F:\Desarrollo de interfaces\Tema7\Ejercicio8_T7\Ejercicio8_T7\obj\Debug\Ejercicio8_T7.exe.config

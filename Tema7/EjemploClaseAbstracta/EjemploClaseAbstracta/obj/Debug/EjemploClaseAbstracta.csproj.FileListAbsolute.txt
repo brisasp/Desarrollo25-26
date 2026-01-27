@@ -1,0 +1,7 @@
+F:\Desarrollo de interfaces\Tema7\EjemploClaseAbstracta\EjemploClaseAbstracta\bin\Debug\EjemploClaseAbstracta.exe.config
+F:\Desarrollo de interfaces\Tema7\EjemploClaseAbstracta\EjemploClaseAbstracta\bin\Debug\EjemploClaseAbstracta.exe
+F:\Desarrollo de interfaces\Tema7\EjemploClaseAbstracta\EjemploClaseAbstracta\bin\Debug\EjemploClaseAbstracta.pdb
+F:\Desarrollo de interfaces\Tema7\EjemploClaseAbstracta\EjemploClaseAbstracta\obj\Debug\EjemploClaseAbstracta.csproj.AssemblyReference.cache
+F:\Desarrollo de interfaces\Tema7\EjemploClaseAbstracta\EjemploClaseAbstracta\obj\Debug\EjemploClaseAbstracta.csproj.CoreCompileInputs.cache
+F:\Desarrollo de interfaces\Tema7\EjemploClaseAbstracta\EjemploClaseAbstracta\obj\Debug\EjemploClaseAbstracta.exe
+F:\Desarrollo de interfaces\Tema7\EjemploClaseAbstracta\EjemploClaseAbstracta\obj\Debug\EjemploClaseAbstracta.pdb

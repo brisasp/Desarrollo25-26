@@ -1,0 +1,7 @@
+F:\Desarrollo de interfaces\Tema4\Ejercicios\Ejercicios\bin\Debug\Ejercicios.exe.config
+F:\Desarrollo de interfaces\Tema4\Ejercicios\Ejercicios\bin\Debug\Ejercicios.exe
+F:\Desarrollo de interfaces\Tema4\Ejercicios\Ejercicios\bin\Debug\Ejercicios.pdb
+F:\Desarrollo de interfaces\Tema4\Ejercicios\Ejercicios\obj\Debug\Ejercicio1.csproj.AssemblyReference.cache
+F:\Desarrollo de interfaces\Tema4\Ejercicios\Ejercicios\obj\Debug\Ejercicio1.csproj.CoreCompileInputs.cache
+F:\Desarrollo de interfaces\Tema4\Ejercicios\Ejercicios\obj\Debug\Ejercicios.exe
+F:\Desarrollo de interfaces\Tema4\Ejercicios\Ejercicios\obj\Debug\Ejercicios.pdb

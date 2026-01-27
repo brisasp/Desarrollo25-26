@@ -1,0 +1,11 @@
+F:\ExamenDI BRISASUAREZ\CarruselImagenes\CarruselImagenes\bin\Debug\CarruselImagenes.exe.config
+F:\ExamenDI BRISASUAREZ\CarruselImagenes\CarruselImagenes\bin\Debug\CarruselImagenes.exe
+F:\ExamenDI BRISASUAREZ\CarruselImagenes\CarruselImagenes\bin\Debug\CarruselImagenes.pdb
+F:\ExamenDI BRISASUAREZ\CarruselImagenes\CarruselImagenes\obj\Debug\CarruselImagenes.csproj.AssemblyReference.cache
+F:\ExamenDI BRISASUAREZ\CarruselImagenes\CarruselImagenes\obj\Debug\CarruselImagenes.Form1.resources
+F:\ExamenDI BRISASUAREZ\CarruselImagenes\CarruselImagenes\obj\Debug\CarruselImagenes.Properties.Resources.resources
+F:\ExamenDI BRISASUAREZ\CarruselImagenes\CarruselImagenes\obj\Debug\CarruselImagenes.csproj.GenerateResource.cache
+F:\ExamenDI BRISASUAREZ\CarruselImagenes\CarruselImagenes\obj\Debug\CarruselImagenes.csproj.CoreCompileInputs.cache
+F:\ExamenDI BRISASUAREZ\CarruselImagenes\CarruselImagenes\obj\Debug\CarruselImagenes.exe
+F:\ExamenDI BRISASUAREZ\CarruselImagenes\CarruselImagenes\obj\Debug\CarruselImagenes.pdb
+F:\ExamenDI BRISASUAREZ\CarruselImagenes\CarruselImagenes\obj\Debug\CarruselImagenes.exe.config

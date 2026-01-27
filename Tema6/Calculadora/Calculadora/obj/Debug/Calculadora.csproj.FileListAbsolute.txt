@@ -1,0 +1,11 @@
+F:\Desarrollo de interfaces\Tema6\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+F:\Desarrollo de interfaces\Tema6\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+F:\Desarrollo de interfaces\Tema6\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+F:\Desarrollo de interfaces\Tema6\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.AssemblyReference.cache
+F:\Desarrollo de interfaces\Tema6\Calculadora\Calculadora\obj\Debug\Calculadora.Form1.resources
+F:\Desarrollo de interfaces\Tema6\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+F:\Desarrollo de interfaces\Tema6\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.cache
+F:\Desarrollo de interfaces\Tema6\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+F:\Desarrollo de interfaces\Tema6\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+F:\Desarrollo de interfaces\Tema6\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
+F:\Desarrollo de interfaces\Tema6\Calculadora\Calculadora\obj\Debug\Calculadora.exe.config

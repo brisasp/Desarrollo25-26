@@ -1,0 +1,11 @@
+F:\Desarrollo de interfaces\Tems13\ComandoInsercion\ComandoInsercion\bin\Debug\ComandoInsercion.exe.config
+F:\Desarrollo de interfaces\Tems13\ComandoInsercion\ComandoInsercion\bin\Debug\ComandoInsercion.exe
+F:\Desarrollo de interfaces\Tems13\ComandoInsercion\ComandoInsercion\bin\Debug\ComandoInsercion.pdb
+F:\Desarrollo de interfaces\Tems13\ComandoInsercion\ComandoInsercion\obj\Debug\ComandoInsercion.csproj.AssemblyReference.cache
+F:\Desarrollo de interfaces\Tems13\ComandoInsercion\ComandoInsercion\obj\Debug\ComandoInsercion.Form1.resources
+F:\Desarrollo de interfaces\Tems13\ComandoInsercion\ComandoInsercion\obj\Debug\ComandoInsercion.Properties.Resources.resources
+F:\Desarrollo de interfaces\Tems13\ComandoInsercion\ComandoInsercion\obj\Debug\ComandoInsercion.csproj.GenerateResource.cache
+F:\Desarrollo de interfaces\Tems13\ComandoInsercion\ComandoInsercion\obj\Debug\ComandoInsercion.csproj.CoreCompileInputs.cache
+F:\Desarrollo de interfaces\Tems13\ComandoInsercion\ComandoInsercion\obj\Debug\ComandoInsercion.exe
+F:\Desarrollo de interfaces\Tems13\ComandoInsercion\ComandoInsercion\obj\Debug\ComandoInsercion.pdb
+F:\Desarrollo de interfaces\Tems13\ComandoInsercion\ComandoInsercion\obj\Debug\ComandoInsercion.exe.config

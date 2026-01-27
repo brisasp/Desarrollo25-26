@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Desarrollo de interfaces\\Tems13\\CategoriasNorthwind\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0AEF1EF9-5C58-4124-880D-14F5429ECC32}|CategoriasNorthwind\\CategoriasNorthwind.csproj|f:\\desarrollo de interfaces\\tems13\\categoriasnorthwind\\categoriasnorthwind\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{0AEF1EF9-5C58-4124-880D-14F5429ECC32}|CategoriasNorthwind\\CategoriasNorthwind.csproj|solutionrelative:categoriasnorthwind\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AEF1EF9-5C58-4124-880D-14F5429ECC32}|CategoriasNorthwind\\CategoriasNorthwind.csproj|f:\\desarrollo de interfaces\\tems13\\categoriasnorthwind\\categoriasnorthwind\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AEF1EF9-5C58-4124-880D-14F5429ECC32}|CategoriasNorthwind\\CategoriasNorthwind.csproj|solutionrelative:categoriasnorthwind\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AEF1EF9-5C58-4124-880D-14F5429ECC32}|CategoriasNorthwind\\CategoriasNorthwind.csproj|F:\\Desarrollo de interfaces\\Tems13\\CategoriasNorthwind\\categoriasnorthwind\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0AEF1EF9-5C58-4124-880D-14F5429ECC32}|CategoriasNorthwind\\CategoriasNorthwind.csproj|solutionrelative:categoriasnorthwind\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.config",
+              "DocumentMoniker": "F:\\Desarrollo de interfaces\\Tems13\\CategoriasNorthwind\\CategoriasNorthwind\\App.config",
+              "RelativeDocumentMoniker": "CategoriasNorthwind\\App.config",
+              "ToolTip": "F:\\Desarrollo de interfaces\\Tems13\\CategoriasNorthwind\\CategoriasNorthwind\\App.config",
+              "RelativeToolTip": "CategoriasNorthwind\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-01-12T10:55:05.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "F:\\Desarrollo de interfaces\\Tems13\\CategoriasNorthwind\\CategoriasNorthwind\\Form1.cs",
+              "RelativeDocumentMoniker": "CategoriasNorthwind\\Form1.cs",
+              "ToolTip": "F:\\Desarrollo de interfaces\\Tems13\\CategoriasNorthwind\\CategoriasNorthwind\\Form1.cs",
+              "RelativeToolTip": "CategoriasNorthwind\\Form1.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T10:51:53.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "F:\\Desarrollo de interfaces\\Tems13\\CategoriasNorthwind\\CategoriasNorthwind\\Form1.cs",
+              "RelativeDocumentMoniker": "CategoriasNorthwind\\Form1.cs",
+              "ToolTip": "F:\\Desarrollo de interfaces\\Tems13\\CategoriasNorthwind\\CategoriasNorthwind\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CategoriasNorthwind\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T10:49:21.478Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Desarrollo de interfaces\\Tema8\\Ejercicio3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{669F8443-9C14-4A39-A584-19024C903FFB}|Ejercicio3\\Ejercicio3.csproj|f:\\desarrollo de interfaces\\tema8\\ejercicio3\\ejercicio3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{669F8443-9C14-4A39-A584-19024C903FFB}|Ejercicio3\\Ejercicio3.csproj|solutionrelative:ejercicio3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Desarrollo de interfaces\\Tema8\\Ejercicio3\\Ejercicio3\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio3\\Program.cs",
+              "ToolTip": "F:\\Desarrollo de interfaces\\Tema8\\Ejercicio3\\Ejercicio3\\Program.cs",
+              "RelativeToolTip": "Ejercicio3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T12:12:25.562Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

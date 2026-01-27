@@ -1,0 +1,10 @@
+F:\Desarrollo de interfaces\Tema2\Ejemplo1Tema2\Ejemplo1Tema2\bin\Debug\Ejemplo1Tema2.exe.config
+F:\Desarrollo de interfaces\Tema2\Ejemplo1Tema2\Ejemplo1Tema2\bin\Debug\Ejemplo1Tema2.exe
+F:\Desarrollo de interfaces\Tema2\Ejemplo1Tema2\Ejemplo1Tema2\bin\Debug\Ejemplo1Tema2.pdb
+F:\Desarrollo de interfaces\Tema2\Ejemplo1Tema2\Ejemplo1Tema2\obj\Debug\Ejemplo1Tema2.csproj.AssemblyReference.cache
+F:\Desarrollo de interfaces\Tema2\Ejemplo1Tema2\Ejemplo1Tema2\obj\Debug\Ejemplo1Tema2.Form1.resources
+F:\Desarrollo de interfaces\Tema2\Ejemplo1Tema2\Ejemplo1Tema2\obj\Debug\Ejemplo1Tema2.Properties.Resources.resources
+F:\Desarrollo de interfaces\Tema2\Ejemplo1Tema2\Ejemplo1Tema2\obj\Debug\Ejemplo1Tema2.csproj.GenerateResource.cache
+F:\Desarrollo de interfaces\Tema2\Ejemplo1Tema2\Ejemplo1Tema2\obj\Debug\Ejemplo1Tema2.csproj.CoreCompileInputs.cache
+F:\Desarrollo de interfaces\Tema2\Ejemplo1Tema2\Ejemplo1Tema2\obj\Debug\Ejemplo1Tema2.exe
+F:\Desarrollo de interfaces\Tema2\Ejemplo1Tema2\Ejemplo1Tema2\obj\Debug\Ejemplo1Tema2.pdb

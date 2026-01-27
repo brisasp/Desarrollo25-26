@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Desarrollo de interfaces\\Tems13\\ConexionProveedores\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{94B5A66B-333E-4591-B1DB-CF086507D51A}|ConexionProveedores\\ConexionProveedores.csproj|f:\\desarrollo de interfaces\\tems13\\conexionproveedores\\conexionproveedores\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{94B5A66B-333E-4591-B1DB-CF086507D51A}|ConexionProveedores\\ConexionProveedores.csproj|solutionrelative:conexionproveedores\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94B5A66B-333E-4591-B1DB-CF086507D51A}|ConexionProveedores\\ConexionProveedores.csproj|f:\\desarrollo de interfaces\\tems13\\conexionproveedores\\conexionproveedores\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94B5A66B-333E-4591-B1DB-CF086507D51A}|ConexionProveedores\\ConexionProveedores.csproj|solutionrelative:conexionproveedores\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94B5A66B-333E-4591-B1DB-CF086507D51A}|ConexionProveedores\\ConexionProveedores.csproj|f:\\desarrollo de interfaces\\tems13\\conexionproveedores\\conexionproveedores\\proveedoresdataset.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{94B5A66B-333E-4591-B1DB-CF086507D51A}|ConexionProveedores\\ConexionProveedores.csproj|solutionrelative:conexionproveedores\\proveedoresdataset.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProveedoresDataSet.xsd",
+              "DocumentMoniker": "F:\\Desarrollo de interfaces\\Tems13\\ConexionProveedores\\ConexionProveedores\\ProveedoresDataSet.xsd",
+              "RelativeDocumentMoniker": "ConexionProveedores\\ProveedoresDataSet.xsd",
+              "ToolTip": "F:\\Desarrollo de interfaces\\Tems13\\ConexionProveedores\\ConexionProveedores\\ProveedoresDataSet.xsd",
+              "RelativeToolTip": "ConexionProveedores\\ProveedoresDataSet.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2026-01-12T10:04:15.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "F:\\Desarrollo de interfaces\\Tems13\\ConexionProveedores\\ConexionProveedores\\Form1.cs",
+              "RelativeDocumentMoniker": "ConexionProveedores\\Form1.cs",
+              "ToolTip": "F:\\Desarrollo de interfaces\\Tems13\\ConexionProveedores\\ConexionProveedores\\Form1.cs",
+              "RelativeToolTip": "ConexionProveedores\\Form1.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T09:59:06.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "F:\\Desarrollo de interfaces\\Tems13\\ConexionProveedores\\ConexionProveedores\\Form1.cs",
+              "RelativeDocumentMoniker": "ConexionProveedores\\Form1.cs",
+              "ToolTip": "F:\\Desarrollo de interfaces\\Tems13\\ConexionProveedores\\ConexionProveedores\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ConexionProveedores\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T09:44:31.431Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+F:\Desarrollo de interfaces\Tema10\EjRecogidaDeDatos\EjRecogidaDeDatos\bin\Debug\EjRecogidaDeDatos.exe.config
+F:\Desarrollo de interfaces\Tema10\EjRecogidaDeDatos\EjRecogidaDeDatos\bin\Debug\EjRecogidaDeDatos.exe
+F:\Desarrollo de interfaces\Tema10\EjRecogidaDeDatos\EjRecogidaDeDatos\bin\Debug\EjRecogidaDeDatos.pdb
+F:\Desarrollo de interfaces\Tema10\EjRecogidaDeDatos\EjRecogidaDeDatos\obj\Debug\EjRecogidaDeDatos.csproj.AssemblyReference.cache
+F:\Desarrollo de interfaces\Tema10\EjRecogidaDeDatos\EjRecogidaDeDatos\obj\Debug\EjRecogidaDeDatos.Form1.resources
+F:\Desarrollo de interfaces\Tema10\EjRecogidaDeDatos\EjRecogidaDeDatos\obj\Debug\EjRecogidaDeDatos.Properties.Resources.resources
+F:\Desarrollo de interfaces\Tema10\EjRecogidaDeDatos\EjRecogidaDeDatos\obj\Debug\EjRecogidaDeDatos.csproj.GenerateResource.cache
+F:\Desarrollo de interfaces\Tema10\EjRecogidaDeDatos\EjRecogidaDeDatos\obj\Debug\EjRecogidaDeDatos.csproj.CoreCompileInputs.cache
+F:\Desarrollo de interfaces\Tema10\EjRecogidaDeDatos\EjRecogidaDeDatos\obj\Debug\EjRecogidaDeDatos.exe
+F:\Desarrollo de interfaces\Tema10\EjRecogidaDeDatos\EjRecogidaDeDatos\obj\Debug\EjRecogidaDeDatos.pdb
+F:\Desarrollo de interfaces\Tema10\EjRecogidaDeDatos\EjRecogidaDeDatos\obj\Debug\EjRecogidaDeDatos.exe.config

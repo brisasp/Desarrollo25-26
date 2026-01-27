@@ -1,0 +1,11 @@
+F:\Desarrollo de interfaces\Tema8\Ejercicio8Coches\Ejercicio8Coches\bin\Debug\Ejercicio8Coches.exe.config
+F:\Desarrollo de interfaces\Tema8\Ejercicio8Coches\Ejercicio8Coches\bin\Debug\Ejercicio8Coches.exe
+F:\Desarrollo de interfaces\Tema8\Ejercicio8Coches\Ejercicio8Coches\bin\Debug\Ejercicio8Coches.pdb
+F:\Desarrollo de interfaces\Tema8\Ejercicio8Coches\Ejercicio8Coches\obj\Debug\Ejercicio8Coches.csproj.AssemblyReference.cache
+F:\Desarrollo de interfaces\Tema8\Ejercicio8Coches\Ejercicio8Coches\obj\Debug\Ejercicio8Coches.Form1.resources
+F:\Desarrollo de interfaces\Tema8\Ejercicio8Coches\Ejercicio8Coches\obj\Debug\Ejercicio8Coches.Properties.Resources.resources
+F:\Desarrollo de interfaces\Tema8\Ejercicio8Coches\Ejercicio8Coches\obj\Debug\Ejercicio8Coches.csproj.GenerateResource.cache
+F:\Desarrollo de interfaces\Tema8\Ejercicio8Coches\Ejercicio8Coches\obj\Debug\Ejercicio8Coches.csproj.CoreCompileInputs.cache
+F:\Desarrollo de interfaces\Tema8\Ejercicio8Coches\Ejercicio8Coches\obj\Debug\Ejercicio8Coches.exe
+F:\Desarrollo de interfaces\Tema8\Ejercicio8Coches\Ejercicio8Coches\obj\Debug\Ejercicio8Coches.pdb
+F:\Desarrollo de interfaces\Tema8\Ejercicio8Coches\Ejercicio8Coches\obj\Debug\Ejercicio8Coches.exe.config

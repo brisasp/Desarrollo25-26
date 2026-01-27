@@ -1,0 +1,11 @@
+F:\Desarrollo de interfaces\Tema8\Ejercicio8\Ejercicio8\obj\Debug\Ejercicio8.csproj.AssemblyReference.cache
+F:\Desarrollo de interfaces\Tema8\Ejercicio8\Ejercicio8\obj\Debug\Ejercicio8.Form1.resources
+F:\Desarrollo de interfaces\Tema8\Ejercicio8\Ejercicio8\obj\Debug\Ejercicio8.Properties.Resources.resources
+F:\Desarrollo de interfaces\Tema8\Ejercicio8\Ejercicio8\obj\Debug\Ejercicio8.csproj.GenerateResource.cache
+F:\Desarrollo de interfaces\Tema8\Ejercicio8\Ejercicio8\obj\Debug\Ejercicio8.csproj.CoreCompileInputs.cache
+F:\Desarrollo de interfaces\Tema8\Ejercicio8\Ejercicio8\bin\Debug\Ejercicio8.exe.config
+F:\Desarrollo de interfaces\Tema8\Ejercicio8\Ejercicio8\bin\Debug\Ejercicio8.exe
+F:\Desarrollo de interfaces\Tema8\Ejercicio8\Ejercicio8\bin\Debug\Ejercicio8.pdb
+F:\Desarrollo de interfaces\Tema8\Ejercicio8\Ejercicio8\obj\Debug\Ejercicio8.exe
+F:\Desarrollo de interfaces\Tema8\Ejercicio8\Ejercicio8\obj\Debug\Ejercicio8.pdb
+F:\Desarrollo de interfaces\Tema8\Ejercicio8\Ejercicio8\obj\Debug\Ejercicio8.exe.config

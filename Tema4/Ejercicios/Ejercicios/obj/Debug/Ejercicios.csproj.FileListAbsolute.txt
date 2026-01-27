@@ -1,0 +1,2 @@
+F:\Desarrollo de interfaces\Tema4\Ejercicios\Ejercicios\obj\Debug\Ejercicios.csproj.AssemblyReference.cache
+F:\Desarrollo de interfaces\Tema4\Ejercicios\Ejercicios\obj\Debug\Ejercicios.csproj.CoreCompileInputs.cache

@@ -1,0 +1,7 @@
+F:\Desarrollo de interfaces\Tema7\Ejercicio5\Ejercicio5\obj\Debug\Ejercicio5.csproj.AssemblyReference.cache
+F:\Desarrollo de interfaces\Tema7\Ejercicio5\Ejercicio5\obj\Debug\Ejercicio5.csproj.CoreCompileInputs.cache
+F:\Desarrollo de interfaces\Tema7\Ejercicio5\Ejercicio5\bin\Debug\Ejercicio5.exe.config
+F:\Desarrollo de interfaces\Tema7\Ejercicio5\Ejercicio5\bin\Debug\Ejercicio5.exe
+F:\Desarrollo de interfaces\Tema7\Ejercicio5\Ejercicio5\bin\Debug\Ejercicio5.pdb
+F:\Desarrollo de interfaces\Tema7\Ejercicio5\Ejercicio5\obj\Debug\Ejercicio5.exe
+F:\Desarrollo de interfaces\Tema7\Ejercicio5\Ejercicio5\obj\Debug\Ejercicio5.pdb

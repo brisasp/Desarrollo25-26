@@ -1,0 +1,10 @@
+F:\Desarrollo de interfaces\Tems13\CategoriaConCodigo\CategoriaConCodigo\bin\Debug\CategoriaConCodigo.exe.config
+F:\Desarrollo de interfaces\Tems13\CategoriaConCodigo\CategoriaConCodigo\bin\Debug\CategoriaConCodigo.exe
+F:\Desarrollo de interfaces\Tems13\CategoriaConCodigo\CategoriaConCodigo\bin\Debug\CategoriaConCodigo.pdb
+F:\Desarrollo de interfaces\Tems13\CategoriaConCodigo\CategoriaConCodigo\obj\Debug\CategoriaConCodigo.csproj.AssemblyReference.cache
+F:\Desarrollo de interfaces\Tems13\CategoriaConCodigo\CategoriaConCodigo\obj\Debug\CategoriaConCodigo.Form1.resources
+F:\Desarrollo de interfaces\Tems13\CategoriaConCodigo\CategoriaConCodigo\obj\Debug\CategoriaConCodigo.Properties.Resources.resources
+F:\Desarrollo de interfaces\Tems13\CategoriaConCodigo\CategoriaConCodigo\obj\Debug\CategoriaConCodigo.csproj.GenerateResource.cache
+F:\Desarrollo de interfaces\Tems13\CategoriaConCodigo\CategoriaConCodigo\obj\Debug\CategoriaConCodigo.csproj.CoreCompileInputs.cache
+F:\Desarrollo de interfaces\Tems13\CategoriaConCodigo\CategoriaConCodigo\obj\Debug\CategoriaConCodigo.exe
+F:\Desarrollo de interfaces\Tems13\CategoriaConCodigo\CategoriaConCodigo\obj\Debug\CategoriaConCodigo.pdb

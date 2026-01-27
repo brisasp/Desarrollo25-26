@@ -1,0 +1,11 @@
+F:\Desarrollo de interfaces\Tems13\CategoriasNorthwind\CategoriasNorthwind\bin\Debug\CategoriasNorthwind.exe.config
+F:\Desarrollo de interfaces\Tems13\CategoriasNorthwind\CategoriasNorthwind\bin\Debug\CategoriasNorthwind.exe
+F:\Desarrollo de interfaces\Tems13\CategoriasNorthwind\CategoriasNorthwind\bin\Debug\CategoriasNorthwind.pdb
+F:\Desarrollo de interfaces\Tems13\CategoriasNorthwind\CategoriasNorthwind\obj\Debug\CategoriasNorthwind.csproj.AssemblyReference.cache
+F:\Desarrollo de interfaces\Tems13\CategoriasNorthwind\CategoriasNorthwind\obj\Debug\CategoriasNorthwind.Form1.resources
+F:\Desarrollo de interfaces\Tems13\CategoriasNorthwind\CategoriasNorthwind\obj\Debug\CategoriasNorthwind.Properties.Resources.resources
+F:\Desarrollo de interfaces\Tems13\CategoriasNorthwind\CategoriasNorthwind\obj\Debug\CategoriasNorthwind.csproj.GenerateResource.cache
+F:\Desarrollo de interfaces\Tems13\CategoriasNorthwind\CategoriasNorthwind\obj\Debug\CategoriasNorthwind.csproj.CoreCompileInputs.cache
+F:\Desarrollo de interfaces\Tems13\CategoriasNorthwind\CategoriasNorthwind\obj\Debug\CategoriasNorthwind.exe
+F:\Desarrollo de interfaces\Tems13\CategoriasNorthwind\CategoriasNorthwind\obj\Debug\CategoriasNorthwind.pdb
+F:\Desarrollo de interfaces\Tems13\CategoriasNorthwind\CategoriasNorthwind\obj\Debug\CategoriasNorthwind.exe.config

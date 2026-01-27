@@ -1,0 +1,10 @@
+F:\Desarrollo de interfaces\Tema10\Ejercicio2\Ejercicio2\bin\Debug\Ejercicio2.exe.config
+F:\Desarrollo de interfaces\Tema10\Ejercicio2\Ejercicio2\bin\Debug\Ejercicio2.exe
+F:\Desarrollo de interfaces\Tema10\Ejercicio2\Ejercicio2\bin\Debug\Ejercicio2.pdb
+F:\Desarrollo de interfaces\Tema10\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.csproj.AssemblyReference.cache
+F:\Desarrollo de interfaces\Tema10\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.Form1.resources
+F:\Desarrollo de interfaces\Tema10\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.Properties.Resources.resources
+F:\Desarrollo de interfaces\Tema10\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.csproj.GenerateResource.cache
+F:\Desarrollo de interfaces\Tema10\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.csproj.CoreCompileInputs.cache
+F:\Desarrollo de interfaces\Tema10\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.exe
+F:\Desarrollo de interfaces\Tema10\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.pdb

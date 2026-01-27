@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Desarrollo de interfaces\\Tema7\\EjemploClaseAbstracta\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D894A408-425B-4E7D-AF05-629185EA09ED}|EjemploClaseAbstracta\\EjemploClaseAbstracta.csproj|f:\\desarrollo de interfaces\\tema7\\ejemploclaseabstracta\\ejemploclaseabstracta\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D894A408-425B-4E7D-AF05-629185EA09ED}|EjemploClaseAbstracta\\EjemploClaseAbstracta.csproj|solutionrelative:ejemploclaseabstracta\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Desarrollo de interfaces\\Tema7\\EjemploClaseAbstracta\\EjemploClaseAbstracta\\Program.cs",
+              "RelativeDocumentMoniker": "EjemploClaseAbstracta\\Program.cs",
+              "ToolTip": "F:\\Desarrollo de interfaces\\Tema7\\EjemploClaseAbstracta\\EjemploClaseAbstracta\\Program.cs",
+              "RelativeToolTip": "EjemploClaseAbstracta\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA5wCIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T10:48:39.239Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

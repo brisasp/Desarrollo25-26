@@ -1,0 +1,7 @@
+F:\Desarrollo de interfaces\Tema8\Ejercicio3\Ejercicio3\bin\Debug\Ejercicio3.exe.config
+F:\Desarrollo de interfaces\Tema8\Ejercicio3\Ejercicio3\bin\Debug\Ejercicio3.exe
+F:\Desarrollo de interfaces\Tema8\Ejercicio3\Ejercicio3\bin\Debug\Ejercicio3.pdb
+F:\Desarrollo de interfaces\Tema8\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.csproj.AssemblyReference.cache
+F:\Desarrollo de interfaces\Tema8\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.csproj.CoreCompileInputs.cache
+F:\Desarrollo de interfaces\Tema8\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.exe
+F:\Desarrollo de interfaces\Tema8\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.pdb

@@ -1,0 +1,11 @@
+F:\ExamenDI BRISASUAREZ\EjercicioAdicional\EjercicioAdicional\obj\Debug\EjercicioAdicional.csproj.AssemblyReference.cache
+F:\ExamenDI BRISASUAREZ\EjercicioAdicional\EjercicioAdicional\obj\Debug\EjercicioAdicional.Form1.resources
+F:\ExamenDI BRISASUAREZ\EjercicioAdicional\EjercicioAdicional\obj\Debug\EjercicioAdicional.Properties.Resources.resources
+F:\ExamenDI BRISASUAREZ\EjercicioAdicional\EjercicioAdicional\obj\Debug\EjercicioAdicional.csproj.GenerateResource.cache
+F:\ExamenDI BRISASUAREZ\EjercicioAdicional\EjercicioAdicional\obj\Debug\EjercicioAdicional.csproj.CoreCompileInputs.cache
+F:\ExamenDI BRISASUAREZ\EjercicioAdicional\EjercicioAdicional\bin\Debug\EjercicioAdicional.exe.config
+F:\ExamenDI BRISASUAREZ\EjercicioAdicional\EjercicioAdicional\bin\Debug\EjercicioAdicional.exe
+F:\ExamenDI BRISASUAREZ\EjercicioAdicional\EjercicioAdicional\bin\Debug\EjercicioAdicional.pdb
+F:\ExamenDI BRISASUAREZ\EjercicioAdicional\EjercicioAdicional\obj\Debug\EjercicioAdicional.exe
+F:\ExamenDI BRISASUAREZ\EjercicioAdicional\EjercicioAdicional\obj\Debug\EjercicioAdicional.pdb
+F:\ExamenDI BRISASUAREZ\EjercicioAdicional\EjercicioAdicional\obj\Debug\EjercicioAdicional.exe.config

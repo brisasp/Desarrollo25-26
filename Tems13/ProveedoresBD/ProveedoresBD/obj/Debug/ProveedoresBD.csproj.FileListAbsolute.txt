@@ -1,0 +1,10 @@
+F:\Desarrollo de interfaces\Tems13\ProveedoresBD\ProveedoresBD\bin\Debug\ProveedoresBD.exe.config
+F:\Desarrollo de interfaces\Tems13\ProveedoresBD\ProveedoresBD\bin\Debug\ProveedoresBD.exe
+F:\Desarrollo de interfaces\Tems13\ProveedoresBD\ProveedoresBD\bin\Debug\ProveedoresBD.pdb
+F:\Desarrollo de interfaces\Tems13\ProveedoresBD\ProveedoresBD\obj\Debug\ProveedoresBD.csproj.AssemblyReference.cache
+F:\Desarrollo de interfaces\Tems13\ProveedoresBD\ProveedoresBD\obj\Debug\ProveedoresBD.Form1.resources
+F:\Desarrollo de interfaces\Tems13\ProveedoresBD\ProveedoresBD\obj\Debug\ProveedoresBD.Properties.Resources.resources
+F:\Desarrollo de interfaces\Tems13\ProveedoresBD\ProveedoresBD\obj\Debug\ProveedoresBD.csproj.GenerateResource.cache
+F:\Desarrollo de interfaces\Tems13\ProveedoresBD\ProveedoresBD\obj\Debug\ProveedoresBD.csproj.CoreCompileInputs.cache
+F:\Desarrollo de interfaces\Tems13\ProveedoresBD\ProveedoresBD\obj\Debug\ProveedoresBD.exe
+F:\Desarrollo de interfaces\Tems13\ProveedoresBD\ProveedoresBD\obj\Debug\ProveedoresBD.pdb

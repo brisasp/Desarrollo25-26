@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Desarrollo de interfaces\\Tema9\\EjercicioPad-Hijo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ADCB8E8B-81F6-472D-85A5-9226D0F5B05E}|EjercicioPad-Hijo\\EjercicioPad-Hijo.csproj|F:\\Desarrollo de interfaces\\Tema9\\EjercicioPad-Hijo\\ejerciciopad-hijo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADCB8E8B-81F6-472D-85A5-9226D0F5B05E}|EjercicioPad-Hijo\\EjercicioPad-Hijo.csproj|solutionrelative:ejerciciopad-hijo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADCB8E8B-81F6-472D-85A5-9226D0F5B05E}|EjercicioPad-Hijo\\EjercicioPad-Hijo.csproj|f:\\desarrollo de interfaces\\tema9\\ejerciciopad-hijo\\ejerciciopad-hijo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ADCB8E8B-81F6-472D-85A5-9226D0F5B05E}|EjercicioPad-Hijo\\EjercicioPad-Hijo.csproj|solutionrelative:ejerciciopad-hijo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADCB8E8B-81F6-472D-85A5-9226D0F5B05E}|EjercicioPad-Hijo\\EjercicioPad-Hijo.csproj|f:\\desarrollo de interfaces\\tema9\\ejerciciopad-hijo\\ejerciciopad-hijo\\hijo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADCB8E8B-81F6-472D-85A5-9226D0F5B05E}|EjercicioPad-Hijo\\EjercicioPad-Hijo.csproj|solutionrelative:ejerciciopad-hijo\\hijo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADCB8E8B-81F6-472D-85A5-9226D0F5B05E}|EjercicioPad-Hijo\\EjercicioPad-Hijo.csproj|F:\\Desarrollo de interfaces\\Tema9\\EjercicioPad-Hijo\\ejerciciopad-hijo\\hijo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ADCB8E8B-81F6-472D-85A5-9226D0F5B05E}|EjercicioPad-Hijo\\EjercicioPad-Hijo.csproj|solutionrelative:ejerciciopad-hijo\\hijo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Hijo.cs",
+              "DocumentMoniker": "F:\\Desarrollo de interfaces\\Tema9\\EjercicioPad-Hijo\\EjercicioPad-Hijo\\Hijo.cs",
+              "RelativeDocumentMoniker": "EjercicioPad-Hijo\\Hijo.cs",
+              "ToolTip": "F:\\Desarrollo de interfaces\\Tema9\\EjercicioPad-Hijo\\EjercicioPad-Hijo\\Hijo.cs",
+              "RelativeToolTip": "EjercicioPad-Hijo\\Hijo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T10:44:45.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "F:\\Desarrollo de interfaces\\Tema9\\EjercicioPad-Hijo\\EjercicioPad-Hijo\\Form1.cs",
+              "RelativeDocumentMoniker": "EjercicioPad-Hijo\\Form1.cs",
+              "ToolTip": "F:\\Desarrollo de interfaces\\Tema9\\EjercicioPad-Hijo\\EjercicioPad-Hijo\\Form1.cs",
+              "RelativeToolTip": "EjercicioPad-Hijo\\Form1.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAEwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T12:02:43.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Hijo.cs [Dise\u00F1o]",
+              "DocumentMoniker": "F:\\Desarrollo de interfaces\\Tema9\\EjercicioPad-Hijo\\EjercicioPad-Hijo\\Hijo.cs",
+              "RelativeDocumentMoniker": "EjercicioPad-Hijo\\Hijo.cs",
+              "ToolTip": "F:\\Desarrollo de interfaces\\Tema9\\EjercicioPad-Hijo\\EjercicioPad-Hijo\\Hijo.cs [Dise\u00F1o]",
+              "RelativeToolTip": "EjercicioPad-Hijo\\Hijo.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T12:01:44.483Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "F:\\Desarrollo de interfaces\\Tema9\\EjercicioPad-Hijo\\EjercicioPad-Hijo\\Form1.cs",
+              "RelativeDocumentMoniker": "EjercicioPad-Hijo\\Form1.cs",
+              "ToolTip": "F:\\Desarrollo de interfaces\\Tema9\\EjercicioPad-Hijo\\EjercicioPad-Hijo\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "EjercicioPad-Hijo\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T11:59:27.246Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

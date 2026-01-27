@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Desarrollo de interfaces\\Tems13\\ConexionBD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D7561D23-14BA-46EC-8477-1265CC47289C}|ConexionBD\\ConexionBD.csproj|F:\\Desarrollo de interfaces\\Tems13\\ConexionBD\\conexionbd\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D7561D23-14BA-46EC-8477-1265CC47289C}|ConexionBD\\ConexionBD.csproj|solutionrelative:conexionbd\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7561D23-14BA-46EC-8477-1265CC47289C}|ConexionBD\\ConexionBD.csproj|f:\\desarrollo de interfaces\\tems13\\conexionbd\\conexionbd\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7561D23-14BA-46EC-8477-1265CC47289C}|ConexionBD\\ConexionBD.csproj|solutionrelative:conexionbd\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7561D23-14BA-46EC-8477-1265CC47289C}|ConexionBD\\ConexionBD.csproj|F:\\Desarrollo de interfaces\\Tems13\\ConexionBD\\conexionbd\\empleadosdataset.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{D7561D23-14BA-46EC-8477-1265CC47289C}|ConexionBD\\ConexionBD.csproj|solutionrelative:conexionbd\\empleadosdataset.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "F:\\Desarrollo de interfaces\\Tems13\\ConexionBD\\ConexionBD\\Form1.cs",
+              "RelativeDocumentMoniker": "ConexionBD\\Form1.cs",
+              "ToolTip": "F:\\Desarrollo de interfaces\\Tems13\\ConexionBD\\ConexionBD\\Form1.cs",
+              "RelativeToolTip": "ConexionBD\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T11:03:28.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmpleadosDataSet.xsd",
+              "DocumentMoniker": "F:\\Desarrollo de interfaces\\Tems13\\ConexionBD\\ConexionBD\\EmpleadosDataSet.xsd",
+              "RelativeDocumentMoniker": "ConexionBD\\EmpleadosDataSet.xsd",
+              "ToolTip": "F:\\Desarrollo de interfaces\\Tems13\\ConexionBD\\ConexionBD\\EmpleadosDataSet.xsd",
+              "RelativeToolTip": "ConexionBD\\EmpleadosDataSet.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2025-12-15T10:55:21.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "F:\\Desarrollo de interfaces\\Tems13\\ConexionBD\\ConexionBD\\Form1.cs",
+              "RelativeDocumentMoniker": "ConexionBD\\Form1.cs",
+              "ToolTip": "F:\\Desarrollo de interfaces\\Tems13\\ConexionBD\\ConexionBD\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ConexionBD\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T10:42:32.041Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

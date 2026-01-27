@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Desarrollo de interfaces\\Tema 5.6\\Ejercicio6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FDE587EB-AEB9-440B-B0BA-D7F0EEE03068}|Ejercicio6\\Ejercicio6.csproj|f:\\desarrollo de interfaces\\tema 5.6\\ejercicio6\\ejercicio6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDE587EB-AEB9-440B-B0BA-D7F0EEE03068}|Ejercicio6\\Ejercicio6.csproj|solutionrelative:ejercicio6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Desarrollo de interfaces\\Tema 5.6\\Ejercicio6\\Ejercicio6\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio6\\Program.cs",
+              "ToolTip": "F:\\Desarrollo de interfaces\\Tema 5.6\\Ejercicio6\\Ejercicio6\\Program.cs",
+              "RelativeToolTip": "Ejercicio6\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T11:19:05.02Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
